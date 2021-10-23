@@ -31,7 +31,7 @@ Users should be able to:
 ![Screenshot 2021-10-23 at 15-48-12 Frontend Mentor 3-column preview card component](https://user-images.githubusercontent.com/1849689/138561339-c79fcc42-e9de-4ed2-ab73-2fe7e23d320a.png)
 
 ### My solution
--[My solution](https://cssbubble.github.io/3-column-card-componant-by-tailwind/)
+- [My solution](https://cssbubble.github.io/3-column-card-componant-by-tailwind/)
 
 
 ### Built with
