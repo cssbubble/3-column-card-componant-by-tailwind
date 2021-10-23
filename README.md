@@ -7,6 +7,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [My solution](#mysolution)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -29,7 +30,8 @@ Users should be able to:
 ![](./screenshot.jpg)![Screenshot 2021-10-23 at 15-47-59 Frontend Mentor 3-column preview card component](https://user-images.githubusercontent.com/1849689/138561334-d43f2465-d856-4bb4-9b47-6915962aeccc.png)
 ![Screenshot 2021-10-23 at 15-48-12 Frontend Mentor 3-column preview card component](https://user-images.githubusercontent.com/1849689/138561339-c79fcc42-e9de-4ed2-ab73-2fe7e23d320a.png)
 
-
+### My solution
+-[My solution](https://cssbubble.github.io/3-column-card-componant-by-tailwind/)
 
 
 ### Built with
